@@ -1,6 +1,6 @@
 # Seatback Safety
 
-![Seatback Safety](public/og-home.png)
+![Seatback Safety archive](docs/screenshot.png)
 
 An interactive archive of my collection of 300+ airline safety cards.
 
